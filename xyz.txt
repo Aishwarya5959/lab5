@@ -1,0 +1,2 @@
+<h3>XYZ</h3>
+<p>fetched from an external file.</p>
